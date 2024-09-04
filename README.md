@@ -6,6 +6,7 @@ You can find an example of how to visualize some major variables of Argentina's 
 ![kpi_report_con_historial](https://github.com/user-attachments/assets/3b60b9c6-082f-4ef5-a86c-499b8815dddb)
 
 ## Real exchange rate 
-You can also find a simple visualization on the Real exchange track record valuated at last year prices.
+Using current prices, you can also find a simple visualization on the Real exchange track record.
 
-![tc_nominal_vs_deflactado](https://github.com/user-attachments/assets/9cd1ae9e-d81b-4154-a539-1b4e9d1f2c46)
+![image](https://github.com/user-attachments/assets/95803e00-0405-432b-8bb3-8bd44df03f0b)
+
